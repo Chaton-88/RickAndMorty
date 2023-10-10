@@ -2,6 +2,8 @@
 
 A simple iOS application that extracts and displays characters from the Rick and Morty series.
 
+![cover](https://github.com/Chaton-88/RickAndMorty/blob/master/Cover.png)
+
 ## Overview :link:
 ___
 + Written in Swift
